@@ -1,6 +1,6 @@
 
 /**
- * This program prints an ASCII design.
+ * This program prints an diamond using asterisks.
  * @author Joshua Solomon, joshuatsolomon@gmail.com
  * @since 2/6/25 (Joshua Solomon, v1.0)
  * @version V1.0
